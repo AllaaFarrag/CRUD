@@ -1,0 +1,22 @@
+﻿@model DepartmentVM
+
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Code"></label>
+        <input class="form-control" asp-for="Code" />
+        <span asp-validation-for="Code" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label class="col-form-label" asp-for="Name"></label>
+        <input class="form-control" asp-for="Name" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label class="col-form-label" asp-for="CreationDate"></label>
+        <input class="form-control" asp-for="CreationDate" />
+        <span asp-validation-for="CreationDate" class="text-danger"></span>
+    </div>
+
+    <input type="submit" value="submit" class="btn btn-primary mt-3" />
+    <a asp-action="Index" class="btn btn-secondary mt-3">Back To List</a>

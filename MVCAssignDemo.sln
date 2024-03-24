@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.PL", "Demo.PL\Demo.PL.csproj", "{BB431D80-D3BC-4734-961A-56148D8AEF79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.BLL", "DemoBLL\Demo.BLL.csproj", "{3D5BCF2E-C48F-4150-93DC-89F8AA5A49C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo.DAL", "Demo.DAL\Demo.DAL.csproj", "{8BCA7564-D0F4-4578-8203-F002C1FE8855}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB431D80-D3BC-4734-961A-56148D8AEF79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB431D80-D3BC-4734-961A-56148D8AEF79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB431D80-D3BC-4734-961A-56148D8AEF79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB431D80-D3BC-4734-961A-56148D8AEF79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D5BCF2E-C48F-4150-93DC-89F8AA5A49C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D5BCF2E-C48F-4150-93DC-89F8AA5A49C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D5BCF2E-C48F-4150-93DC-89F8AA5A49C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D5BCF2E-C48F-4150-93DC-89F8AA5A49C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCA7564-D0F4-4578-8203-F002C1FE8855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCA7564-D0F4-4578-8203-F002C1FE8855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCA7564-D0F4-4578-8203-F002C1FE8855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCA7564-D0F4-4578-8203-F002C1FE8855}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00D2C55A-036D-4463-ACA4-00053D1338AA}
+	EndGlobalSection
+EndGlobal

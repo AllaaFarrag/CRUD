@@ -1,0 +1,24 @@
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+E:\ROUTE\05 MVC\Session 03\Assignment\Answer\MVCAssignDemo03\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.deps.json
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\bin\Debug\net6.0\Demo.DAL.pdb
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.AssemblyReference.cache
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfoInputs.cache
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.AssemblyInfo.cs
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.csproj.CoreCompileInputs.cache
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
