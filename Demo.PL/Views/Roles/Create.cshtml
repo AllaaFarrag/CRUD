@@ -1,0 +1,17 @@
+﻿@model RoleVM
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1 class="mt-2">Create Role</h1>
+
+
+<form class="mt-3" method="post" asp-action="Create" enctype="multipart/form-data">
+    <partial name="PartialView/CreateEditPartialView"></partial>
+</form>
+
+@section Validation{
+
+    <partial name="_ValidationScriptsPartial"></partial>
+}
+

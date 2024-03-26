@@ -511,3 +511,8 @@ E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Cryp
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\obj\Debug\net6.0\Demo.PL.sourcelink.json
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
