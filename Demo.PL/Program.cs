@@ -3,6 +3,8 @@ using Demo.BLL.Reprository;
 using Demo.DAL.Context;
 using Demo.DAL.Entites;
 using Demo.PL.MappingProfiles;
+using Demo.PL.Settings;
+using Demo.PL.Utility;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -30,6 +32,9 @@ namespace Demo.PL
             builder.Services.AddIdentity<AppUser , IdentityRole>()
                 .AddEntityFrameworkStores<CompanyDbContext>().AddDefaultTokenProviders();
             builder.Services.AddScoped<IUnitOfWork , UnitOfWork>();
+            builder.Services.AddTransient<IMailSettings, MailSetting>();
+
+            builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("MailSettings"));
 
             var app = builder.Build();
 

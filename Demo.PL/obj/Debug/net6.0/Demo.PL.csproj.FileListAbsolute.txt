@@ -501,7 +501,6 @@ E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\obj\Debug\net6.0\staticwebassets.pack.json
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\obj\Debug\net6.0\scopedcss\bundle\Demo.PL.styles.css
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\obj\Debug\net6.0\scopedcss\projectbundle\Demo.PL.bundle.scp.css
-E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.CopyComplete
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\obj\Debug\net6.0\Demo.PL.genruntimeconfig.cache
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\obj\Debug\net6.0\ref\Demo.PL.dll
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\AutoMapper.dll
@@ -516,3 +515,10 @@ E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.AspNetCore.Json
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\obj\Debug\net6.0\Demo.PL.csproj.Up2Date
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\MailKit.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\MimeKit.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\System.Formats.Asn1.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.PL\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll

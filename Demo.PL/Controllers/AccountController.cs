@@ -10,14 +10,16 @@ namespace Demo.PL.Controllers
     {
         private readonly UserManager<AppUser> _userManager;
         private readonly SignInManager<AppUser> _signInManager;
+        private readonly IMailSettings _mailSettings;
 
-		public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
-		{
-			_userManager = userManager;
-			_signInManager = signInManager;
-		}
+        public AccountController(UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, IMailSettings mailSettings)
+        {
+            _userManager = userManager;
+            _signInManager = signInManager;
+            _mailSettings = mailSettings;
+        }
 
-		public IActionResult Register() => View();
+        public IActionResult Register() => View();
 
         [HttpPost]
         public async Task<IActionResult> Register(RegisterVM model)
@@ -102,9 +104,10 @@ namespace Demo.PL.Controllers
                     Body = url
                 };
                 //send email to user
-                MailSetting.SendMail(email);
+                //MailSetting.SendMail(email);
+                _mailSettings.SendMail(email);
 
-				return RedirectToAction(nameof(CheckInbox));
+                return RedirectToAction(nameof(CheckInbox));
 
 			}
             ModelState.AddModelError("", "Email Doesnt Exist");

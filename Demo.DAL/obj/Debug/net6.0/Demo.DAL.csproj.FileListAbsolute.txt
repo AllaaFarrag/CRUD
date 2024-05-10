@@ -22,3 +22,4 @@ E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.dll
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\refint\Demo.DAL.dll
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.pdb
 E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\ref\Demo.DAL.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\Demo.DAL\obj\Debug\net6.0\Demo.DAL.sourcelink.json

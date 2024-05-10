@@ -23,8 +23,9 @@ E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\Demo.BLL.GeneratedMSBuild
 E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfoInputs.cache
 E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\Demo.BLL.AssemblyInfo.cs
 E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\Demo.BLL.csproj.CoreCompileInputs.cache
-E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\Demo.BLL.csproj.CopyComplete
 E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\Demo.BLL.dll
 E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\refint\Demo.BLL.dll
 E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\Demo.BLL.pdb
 E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\ref\Demo.BLL.dll
+E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\Demo.BLL.sourcelink.json
+E:\ROUTE\05 MVC\MVCAssignDemo\DemoBLL\obj\Debug\net6.0\Demo.BLL.csproj.Up2Date
